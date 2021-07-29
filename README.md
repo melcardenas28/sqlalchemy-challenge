@@ -1,4 +1,20 @@
-# sqlalchemy-challenge
+# SQLAlchemy Homework - Surfs Up!
+-------------------------------------------------------------------------------------------
+**Before You Begin**
+
+1. Create a new repository for this project called sqlalchemy-challenge. Do not add this homework to an existing repository.
 
 
-https://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/ucsd-sd-virt-data-pt-05-2021-u-c/-/raw/master/02-Homework/10-Advanced-Data-Storage-and-Retrieval/Instructions/Images/surfs-up.png![image](https://user-images.githubusercontent.com/83568152/127432751-be4e1a3d-58a3-4428-86e8-b9603b3e1341.png)
+2. Clone the new repository to your computer.
+
+
+3. Add your Jupyter notebook and app.py to this folder. These will be the main scripts to run for analysis.
+
+
+4. Push the above changes to GitHub or GitLab.
+
+
+
+
+
+
